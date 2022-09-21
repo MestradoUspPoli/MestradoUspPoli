@@ -1,0 +1,10 @@
+# Hi, I’m a drive from Studants USP
+
+This drive will content projects development in AURIX TC297B. 
+
+<div align="center">
+  <a href="https://github.com/MestradoUspPoli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MestradoUspPoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MestradoUspPoli&layout=compact&langs_count=7&theme=dark"/> -->
+</div>
+  
